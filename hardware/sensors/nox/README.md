@@ -1,9 +1,9 @@
-# Total Volatile Organic Compound (TVOC) Sensors
+# Oxides of Nitrogen (NOx) Sensors
 
 ## In Use
 
-* **[Sensirion SVM30]()**: SGP30 sensor connected to a SHT31 T/RH sensor and put together by Sensirion. 
+* **[SPEC DGS NO2]()**: Serial NO2 sensors
 
 ## For Future Applications
 
-* **[Sensirion SEN5X](https://www.sensirion.com/en/environmental-sensors/environmental-sensor-node-sen5x/)**: An all-in-one sensor including TVOC measurements
+* **[Sensirion SEN5X](https://www.sensirion.com/en/environmental-sensors/environmental-sensor-node-sen5x/)**: An all-in-one sensor including NOx measurements
